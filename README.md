@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me 🍘
+
+🎀 Batch 2023-27 Scaler School Of Technology🍚
+
+🎀 Mastering DSA 🍙
+
+🎀 Web3 Alludu 🍣
+
+🎀Contact email : saideepakch0@gmail.com 🍜
 
 <!--
 **Deepakchowdavarapu/Deepakchowdavarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
