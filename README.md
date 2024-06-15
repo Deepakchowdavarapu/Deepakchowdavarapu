@@ -4,8 +4,6 @@
 
 🎀 Mastering DSA 🍙
 
-🎀 Web3 Alludu 🍣
-
 🎀Contact email : saideepakch0@gmail.com 🍜
 
 <!--
