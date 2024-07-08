@@ -2,7 +2,6 @@
 
 🎀 Batch 2023-27 Scaler School Of Technology🍚
 
-🎀 Mastering DSA 🍙
 
 🎀Contact email : saideepakch0@gmail.com 🍜
 
