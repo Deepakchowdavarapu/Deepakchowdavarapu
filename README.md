@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍥 Intro:
 Hi I'm Deepak CH , Second Year Bsc Computer Science Student at BITS-Pilani .<br>Currently mastering  WebDevelopment hooked on MERN Stack  && Data Structures & Algorithms(DSA) through Java.<br><br>My Resume : https://drive.google.com/file/d/1k4f1B-eXZl-BAR3I-ZjtG9NpirkBqQ0b/view?usp=drivesdk<br><br>Fun fact from me : Im no funny anymore
 
 
