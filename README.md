@@ -1,6 +1,5 @@
 # 🍥 Intro:
-### Hi I'm Deepak CH , Second Year Bsc Computer Science Student at BITS-Pilani .<br>Currently mastering  WebDevelopment hooked on MERN Stack  && Data Structures & Algorithms(DSA) through Java.<br><br>My Resume : https://drive.google.com/file/d/1sR-tVjQHDbRBrLKeGONYwJQ3CPyaZtK6/view?usp=drivesdk
-
+### Hi I'm Deepak CH , Second Year Bsc Computer Science Student at BITS-Pilani .<br>Currently mastering  WebDevelopment hooked on MERN Stack  && Data Structures & Algorithms(DSA) through Java.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepak_chowdavarapu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saideepakch/) 
